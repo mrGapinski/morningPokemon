@@ -6,6 +6,7 @@ public class BenDebug {
 		// TODO Auto-generated method stub
 System.out.println("test");
 System.out.println("another test");
+
 	}
 
 }
