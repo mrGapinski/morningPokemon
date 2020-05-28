@@ -6,5 +6,5 @@ public class Zekrom extends Pokemon{
 		super(nameInput);
 		this.setMaxHP(750);
 		this.setCP(1000);
-	}
+
 }
