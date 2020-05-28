@@ -12,5 +12,6 @@ public class Charmander extends Pokemon{
 		Charmeleon result = new Charmeleon(this.getName());
 		result.setCP(this.getCP());
 		return result;
+		
 	}
 }
