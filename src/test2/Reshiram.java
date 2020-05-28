@@ -7,6 +7,6 @@ public class Reshiram extends Pokemon{
 	public Reshiram(String nameInput) {
 		super(nameInput);
 		this.setMaxHP(1000);
-		
+		this.setCP(750);
 	}
 }
