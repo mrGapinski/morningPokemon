@@ -8,6 +8,11 @@ public class Solgaleo extends Pokemon{
 	public Solgaleo(String name) {
 		super("Solgaleo");
 		this.setMaxHP(500);
+		
+	}
+	
+	public void evolve() {
+		System.out.println("Sorry, this Pokemon can't be evolved anymore.");
 	}
 	
 }
