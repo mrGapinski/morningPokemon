@@ -26,6 +26,10 @@ public class Pokemon {
 		return currentHP;
 	}
 	
+	public void setCP(int CPinput) {
+		CP=CPinput;
+	}
+	
 	public void setMaxHP(int newValue) {
 		maxHP = newValue;
 	}
