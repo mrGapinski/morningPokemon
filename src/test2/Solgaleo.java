@@ -13,6 +13,7 @@ public class Solgaleo extends Pokemon{
 	
 	public void evolve() {
 		System.out.println("Sorry, this Pokemon can't be evolved anymore.");
+		
 	}
 	
 }
