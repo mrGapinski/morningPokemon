@@ -7,7 +7,7 @@ public class Solgaleo extends Pokemon{
 	
 	public Solgaleo(String name) {
 		super("Solgaleo");
-		this.setMaxHP(500);
+		this.setMaxHP(137);
 		
 	}
 	
