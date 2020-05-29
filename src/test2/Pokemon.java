@@ -61,10 +61,16 @@ public class Pokemon {
 	public void printInfo() {
 		System.out.println(name);
 		System.out.println(getHP_Status());
+		System.out.println(getCP());
 		
 	}
 	
 	public void setName(String nameInput) {
 		name = nameInput;
 	}
+	
+	public void evolve() {
+		
+	}
+	
 }

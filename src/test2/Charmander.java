@@ -5,7 +5,7 @@ public class Charmander extends Pokemon{
 	//instance data goes here
 	
 	public Charmander(String name) {
-		super("Charmander");
+		super(name);
 	}
 	
 	public Charmeleon evolve() {
