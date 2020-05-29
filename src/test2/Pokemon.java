@@ -70,7 +70,7 @@ public class Pokemon {
 	}
 	
 	public void evolve() {
-		
+		System.out.println("let's see what happens");
 	}
 	
 }

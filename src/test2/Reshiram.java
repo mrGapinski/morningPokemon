@@ -9,4 +9,5 @@ public class Reshiram extends Pokemon{
 		this.setMaxHP(1000);
 		this.setCP(750);
 	}
+
 }

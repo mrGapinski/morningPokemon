@@ -11,7 +11,9 @@ public class PokemonBox {
 		listOfPokemon = new ArrayList<Pokemon>();
 		
 	}
-	
+	public int size() {
+		return listOfPokemon.size();
+	}
 	public Pokemon getPokemonFromList(int index) {
 		return listOfPokemon.get(index);
 	}

@@ -8,10 +8,10 @@ public class Charmander extends Pokemon{
 		super(name);
 	}
 	
-	public Charmeleon evolve() {
-		Charmeleon result = new Charmeleon(this.getName());
-		result.setCP(this.getCP());
-		return result;
+	public void evolve() {
+
+		System.out.println("You evolved your Charmander into Charmeleon");
+		
 		
 	}
 }
